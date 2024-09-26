@@ -40,6 +40,9 @@
      font-size: 20px;
 }
 
+.gs-section-04 p {
+     color: red;
+}
 </style>
 
 # Build your website in 3 steps
@@ -84,6 +87,10 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 </div>
 
+<div class="gs-section-04" markdown="1">
+      
 ### 4. Congratulations! You have a website!
 
 If you named your project correctly and made an edit to the config file, your website should be ready in a minute or two at `https://YOURUSERNAME.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
+
+</div>
