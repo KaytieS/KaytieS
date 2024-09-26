@@ -7,7 +7,8 @@
 }
 
 .gs-section-01 p {
-     font-family: Arial;
+     color: green;
+     font-family: Georgia;
      font-size: 30px;
 }
 
@@ -17,10 +18,11 @@
 
 .gs-section-02 h3 { 
      font-family: sans-serif;
-     color: blue;
+     color: purple;
 }
 
 .gs-section-02 p {
+     font-family: Arial;
      font-size: 15px;
 }
 
@@ -30,7 +32,7 @@
 
 .gs-section-03 h3 {
      font-family: Georgia;
-     color: purple;
+     color: blue;
      font-size: 30px;    
 }
 
