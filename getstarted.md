@@ -12,8 +12,9 @@
 <style>
 
 .gs-section-02 h3 { 
-     font-family: Arial, sans-serif;
-     color: blue }
+     font-family: sans-serif;
+     color: blue;
+}
 
 .gs-section-02 p {
      font-size: 15px;
@@ -24,8 +25,10 @@
 <style>
 
 .gs-section-03 h3 {
-     font-family: Sans-serif, georgia;
-     color: purple }
+     font-family: Georgia;
+     color: purple;
+     font-size: 30px;    
+}
 
 .gs-section-03 p {
      font-size: 20px;
