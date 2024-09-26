@@ -1,6 +1,3 @@
-plugins:
-  - jekyll-emoji
-
 <style>
 
 .gs-section-01 h3 { 
@@ -19,14 +16,15 @@ plugins:
      color: blue }
 
 .gs-section-02 p {
-     font-size: 10px;
+     font-size: 15px;
 }
 
 </style>
 
 <style>
 
-.gs-section-03 h3 { 
+.gs-section-03 h3 {
+     font-family: Sans-serif, georgia;
      color: purple }
 
 .gs-section-03 p {
@@ -43,7 +41,7 @@ Even if you choose to use one of the [advanced installation methods](https://bea
 
 ## The easy way (recommended!)
 
-Getting started is *literally* as easy as 1-2-3 :smile:
+Getting started is *literally* as easy as 1-2-3 
 
 Scroll down to see the steps involved, but here is a 30-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com), you'll need to sign up.
 
