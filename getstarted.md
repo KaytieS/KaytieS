@@ -1,9 +1,13 @@
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     font-family: Arial;
+     color: red;
+     font-size: 50px;
+}
 
 .gs-section-01 p {
+     font-family: Arial;
      font-size: 30px;
 }
 
