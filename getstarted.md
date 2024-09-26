@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: starting
 ---
 
 
@@ -52,49 +52,3 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 If you named your project correctly and made an edit to the config file, your website should be ready in a minute or two at `https://YOURUSERNAME.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 </div>
-
-</code>
-</pre>
-</blockquote>
-
-
-
-
-<style>
-
-.gs-section-01 h3 { 
-     font-family: Arial;
-     color: red;
-     font-size: 50px;
-}
-
-.gs-section-01 p {
-     color: green;
-     font-family: Georgia;
-     font-size: 30px;
-}
-
-.gs-section-02 h3 { 
-     font-family: sans-serif;
-     color: purple;
-}
-
-.gs-section-02 p {
-     font-family: Arial;
-     font-size: 15px;
-}
-
-.gs-section-03 h3 {
-     font-family: Georgia;
-     color: blue;
-     font-size: 30px;    
-}
-
-.gs-section-03 p {
-     font-size: 20px;
-}
-
-.gs-section-04 p {
-     color: red;
-}
-</style>
