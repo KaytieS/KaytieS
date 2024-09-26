@@ -1,11 +1,12 @@
 <style>
-.gs-section-01 {
-  font-family: Arial, sans-serif;
-  color: #2c3e50; /* Text color */
-  background-color: #f0f8ff; /* Background color */
-  padding: 10px;
-  border-radius: 5px;
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
 }
+
 </style>
 
 # Build your website in 3 steps
