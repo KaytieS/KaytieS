@@ -53,4 +53,14 @@ If you named your project correctly and made an edit to the config file, your we
 
 </div>
 
+<style>
+
+.gs-section-01 h3 { 
+     font-family: Arial;
+     color: red;
+     font-size: 50px;
+}
+
+<style>
+
 <link rel="stylesheet" href="/assets/css/custom.css">
