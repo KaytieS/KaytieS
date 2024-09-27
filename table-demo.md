@@ -26,22 +26,6 @@ gosling:
 
 ![Ryan vs Ryan]({{site.url}}/assets/img/ryan-v-ryan.jpg)
 
-.Ryan vs Ryan {
-                   border: 1px solid #ddd;
-                   border-radius: 8px;
-                   padding: 5px;
-                   width: 400px;
-                   display: block;
-                   margin-left: auto;
-                   margin-right: auto;
-                   width: 50%;
-                   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                               0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                }
-
-                .Ryan vs Ryan:hover {
-                   box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
-                }
 
 ## Lorem Ipsum
 
