@@ -53,6 +53,10 @@ If you named your project correctly and made an edit to the config file, your we
 
 </div>
 
+<blockquote>
+<pre>
+<code>
+
 <style>
 
 .gs-section-01 h3 { 
@@ -61,6 +65,40 @@ If you named your project correctly and made an edit to the config file, your we
      font-size: 50px;
 }
 
-<style>
+.gs-section-01 p {
+     color: green;
+     font-family: Georgia;
+     font-size: 30px;
+}
+
+.gs-section-02 h3 { 
+     font-family: sans-serif;
+     color: purple;
+}
+
+.gs-section-02 p {
+     font-family: Arial;
+     font-size: 15px;
+}
+
+.gs-section-03 h3 {
+     font-family: Georgia;
+     color: blue;
+     font-size: 30px;    
+}
+
+.gs-section-03 p {
+     font-size: 20px;
+}
+
+.gs-section-04 p {
+     color: red;
+}
+</style>
+
+<blockquote>
+<pre>
+<code>
+
 
 <link rel="stylesheet" href="/assets/css/custom.css">
